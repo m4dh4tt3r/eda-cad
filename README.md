@@ -1,2 +1,2 @@
 # eda-cad
-Programming projects for Coursera "VLSI CAD - Logic" course
+Programming projects for Coursera "VLSI CAD 1 - Logic" course
